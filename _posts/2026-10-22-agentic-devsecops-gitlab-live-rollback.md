@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Six runs, eight findings, one live rollback: what broke when agents ran a GitLab DevSecOps pipeline end to end"
-date: 2026-10-22 09:00:00 +0000
+date: 2026-10-22 06:00:00 +0000
 tags: [gitlab, devsecops, agents, ci]
 ---
 
