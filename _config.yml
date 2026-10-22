@@ -1,0 +1,9 @@
+title: Weiguo Han
+description: Field notes on agentic pipelines, Kubernetes networking and protocol migrations.
+theme: minima
+url: "https://vigohan95.github.io"
+author: Weiguo Han
+show_excerpts: true
+minima:
+  social_links:
+    github: vigohan95
